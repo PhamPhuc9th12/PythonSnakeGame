@@ -1,6 +1,5 @@
-# fa-4_16
-fa-4_16 created by GitHub Classroom
-@Author Pham Thanh Phuc - B20DCCN512 and Nguyen Hoai Nam - B20DCCN452!!
+
+@Author Pham Thanh Phuc - B20DCCN512
 @REFERENCES FROM ( ClearCode) and extends
 
 
@@ -16,7 +15,8 @@ I want to create a snake game with some simple function example for:
   + Will speed up for snake when it qualifies
   + Create some map with impediment
   + Will snake eats enough fruit, it can change to next map
-  
+  + Have an item add score
+  + Have three map level
 
  4/11 Done screen start game and function paused game
 Game gồm 2 đối tượng chính là snake và fruit
